@@ -1,0 +1,14 @@
+table{
+    border: 10px solid grey;
+}
+
+th{
+    background: green;
+    color: white;
+    text-align: center;
+}
+
+td{
+    border: 2px solid green;
+    text-align: center;
+}
