@@ -1,0 +1,19 @@
+#titel{
+    color: red;
+}
+
+.cities{
+    background: black;
+    color: white;
+}
+
+.countries{
+    background: lightblue;
+    color: darkred;
+}
+
+section{
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+}

@@ -1,0 +1,31 @@
+a {
+    display: block;
+    background: lightsalmon;
+    color: white;
+    width: 250px;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 20px 0 20px 0;
+    margin: 10px;
+    float: left;
+    font-size: 20pt;
+    text-align: center;
+}
+
+a:visited{
+    color: maroon;
+}
+
+a:hover{
+    background: maroon;
+    color: lightsalmon;
+}
+
+a:active{
+    background: rgb(1, 1, 161);
+    color: white;
+}
+
+body{
+    background: rgb(218, 100, 21);
+}

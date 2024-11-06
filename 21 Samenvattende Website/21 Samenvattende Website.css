@@ -1,0 +1,42 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul li{
+    float: left;
+    list-style: none;
+    width: 33%;
+    color: blue;
+    background: rgb(151, 179, 255);
+    font-size: 24pt;
+    border-bottom: darkblue 5px solid;
+    border-top: solid darkblue 3px;
+    text-align: center;
+    margin-left: -40px;
+}
+
+ul{
+    width: 100%;
+}
+
+img{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+footer{
+    border-bottom: solid darkblue 5px;
+    background: rgb(151, 179, 255);
+    height: 30px;
+    text-align: right;
+    font-size: 18pt;
+}
