@@ -1,0 +1,10 @@
+.Container{
+    display: flex;
+    background: lightblue;
+}
+
+.Container div{
+    background: silver;
+    margin: 2px;
+    padding: 5px;
+}
