@@ -15,4 +15,35 @@ body{
 
 header{
     display: flex;
+    background: #3d7068;
+    color: #fff;
+    padding: 20px;
+}
+
+main{
+    display: flex;
+}
+
+section{
+    flex: 1;
+}
+
+figure{
+    flex: 1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#BorderColliePicture{
+    width: 100%;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background: #43c59e;
+    color: #fff;
 }
